@@ -17,7 +17,8 @@ public class Main {
 	static FurnitureFactory vf = new VictorianFurnitureFactory();
 	static FurnitureFactory adf = new ArtDecoFurnitureFactory();
 
-	// Try adding a new type of product without touching the 3 other types already implemented.
+
+	// Try adding a new style of product without touching the other styles already implemented.
 
 	public static void main(String[] args) {
 
