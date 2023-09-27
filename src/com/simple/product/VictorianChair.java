@@ -3,7 +3,7 @@ package com.simple.product;
 public class VictorianChair implements Chair {
     @Override
     public void sitOn() {
-        System.out.printf("Sit on and old school chair.");
+        System.out.println("Sit on and old school chair.");
     }
 
     @Override
